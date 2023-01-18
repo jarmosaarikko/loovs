@@ -23,10 +23,11 @@ The classification has been translated in several languages. Here I have collect
 - Norwegian (nn, nb)
   - The National Library of Norway - https://web.archive.org/web/20070212203008/https://www.nb.no/baser/samisk/klassifikasjon.html
 - Finnish (fi)
-  - The Rovaniemi City Library and the National Library of Finland
+  - Lapin kirjasto, Suomen saamelainen erikoiskirjasto / Rovaniemi City Library
+  - National Library of Finland
 - Swedish (sv)
-  - Kungliga Biblioteket (N/A)
-  - Ájtte – Svenskt Fjäll- och Samemuseum - https://www.ajtte.com/wp-content/uploads/2019/04/L%C3%B8%C3%B8vs-klassifikationsystem.pdf
+    - Ájtte – Svenskt Fjäll- och Samemuseum bibliotek - https://www.ajtte.com/wp-content/uploads/2019/04/L%C3%B8%C3%B8vs-klassifikationsystem.pdf
+    - Sametinget, Samernas bibliotek
 - Russian (ru)
   - exists but not available
   
