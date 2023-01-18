@@ -1,0 +1,153 @@
+skos:notation	skos:prefLabel@en	skos:prefLabel@se	skos:prefLabel@nn	skos:prefLabel@nb	skos:prefLabel@fi (updated 22.06.2021)	skos:prefLabel@sv (från Ajtte)
+0	Løøv classification	Løøva klassifikašuvdna	Løøv-klassifikasjon	Løøv-klassifikasjon	Löövin luokitus	Løøv-klassifikation
+01	Book and library research	GIRJE- JA GIRJERÁJUSDOAIMMAT	BOK- OG BIBLIOTEKVESEN	BOK OG BIBLIOTEKVESEN	KIRJA- JA KIRJASTOALA	BOK OCH BIBLIOTEKSVÄSEN
+01a	General bibliographies	Oppalaš bibliografiat	Generelle bibliografiar	Generelle bibliografier	Yleiset bibliografiat	Generella bibliografier
+01b	Bibliographies of individuals	Ovttaskasolbmuid bibliografiat	Bibliografiar over enkeltpersonar	Bibliografier over enkeltpersoner	Henkilöbibliografiat	Bibliografier över särskilda personer
+01c	Library catalogues	Girjerádjokatalogat	Bibliotekkatalogar	Bibliotekkataloger	Kirjastojen luettelot	Bibliotekskataloger
+01d	Books and libraries in general	Girjjiid ja girjerádjosiid birra dábáláččat	Generelt om bøker og bibliotek	Generelt om bøker og bibliotek	Kirjat ja kirjastot yleensä	Allmänt om böcker och bibliotek
+01e	Book reviews	Girjeárvvoštallamat	Bokomtalar	Bokomtaler	Kirja-arvostelut	Recensioner
+01f	Archives	Arkiivvat	Arkiv	Arkiv	Arkistot	Arkiv
+02	Comprehensive works and works of miscellaneous contents	OPPALAŠGIRJJIT JA IEŠGUĐETLÁGÁN SISDOLOT GIRJJIT	OVERSIKTSVERK OG SKRIFTER AV BLANDA INNHALD	OVERSIKTSVERKER OG SKRIFTER AV BLANDET INNHOLD	KOKOOMATEOKSET JA ERI ALOJEN JULKAISUT	ÖVERSIKTSVERK OCH SKRIFTER AV BLANDAT INNEHÅLL
+02a	General surveys and handbooks	Oppalaš čilgehusat ja giehtagirjjit	Generelle oversyn og handbøker	Generelle oversikter og håndbøker	Yleiskatsaukset ja käsikirjat	Allmänna översiktsverk och handböcker
+02b	Non-specialized periodicals	Oppalaš áigečallagat	Periodiske publikasjonar som ikkje høyrer under noko enkelt fag	Periodiske publikasjoner som ikke hører under noe enkelt fag	Yleiset sarjajulkaisut	Allmänna periodiska publikationer
+02c	Works of miscellaneous content	iešguđetlágán sisdolot girjjit	Skrifter av blanda innhald	Skrifter av blandet innhold	Moniaiheiset teokset	Skrifter av blandat innehåll
+02d	Research methodology	Dutkanmetodihkka	Forskingsmetodikk	Forskningsmetodikk	Tutkimusmenetelmät	Forskningsmetodik
+03	Sami institutions and organisations	SÁMI ÁSAHUSAT JA ORGANISAŠUVNNAT	SAMISKE INSTITUSJONAR OG ORGANISASJONAR	SAMISKE INSTITUSJONER OG ORGANISASJONER	SAAMELAISET LAITOKSET JA ORGANISAATIOT	SAMISKA INSTITUTIONER OCH ORGANISATIONER
+03a	Institutions and agencies	Ásahusat	Institusjonar og organ	Institusjoner og organer	Laitokset ja virastot	Institutioner och organ
+03b	Organizations and associations	Organisašuvnnat ja searvvit	Organisasjonar og foreningar	Organisasjoner og foreninger	Järjestöt ja yhdistykset	Organisationer och föreningar
+03c	Conferences and meetings	Konfearánssat ja čoahkkimat	Konferansar og møte	Konferanser og møter	Konferenssit ja kokoukset	Konferenser och möten
+04	Religion, philosophy, psychology	OSKKUT, FILOSOFIIJA, PSYKOLOGIIJA	RELIGION, FILOSOFI OG PSYKOLOGI	RELIGION, FILOSOFI OG PSYKOLOGI	USKONTO, FILOSOFIA JA PSYKOLOGIA	RELIGION, FILOSOFI OCH PSYKOLOGI
+04a	Pre-Christian religions	Ovdakristtalaš osku	Førkristen tru	Førkristen tro	Esikristilliset uskonnot	Förkristen tro
+04b	Church and mission history	Girko- ja mišuvdnahistorjá	Kyrkje- og misjonshistorie	Kirke og misjonshistorie	Kirkko- ja lähetyshistoria	Kyrko- och missionshistoria
+04c	Congregations	Ovttaskas girkoservodagat	Enkelte kyrkjesamfunn	Enkelte kirkesamfunn	Seurakunnat	Särskilda kyrkoförsamlingar
+04d	Læstadianism	Læstadianisma	Læstadianisme	Læstadianisme	Lestadiolaisuus	Laestadianism
+04e	Philosophy and psychology	Filosofiija, psykologiija	Filosofi, psykologi	Filosofi, psykologi	Filosofia ja psykologia	Filosofi, psykologi
+05	Religious literature	VUOIŊŊALAŠ GIRJJÁLAŠVUOHTA	RELIGIØS LITTERATUR	RELIGIØS LITTERATUR	USKONNOLLINEN KIRJALLISUUS	RELIGIÖS LITTERATUR
+05a	The Bible and biblical history	Biibbal ja biibbalhistorjá	Bibelen/bibelhistorie	Bibelen/bibelhistorie	Raamattu ja raamatunhistoria	Bibeln / bibelhistoria
+05b	Psalms and hymns	Sálmmat ja lávlagat	Salmer og songar	Salmer og sanger	Virret ja hengelliset laulut	Psalmer och sånger
+05c	Other works	Eará čállagat	Andre skrifter	Andre skrifter	Muut teokset	Andra skrifter
+06	Philology, Language	GIELLADIEĐA	SPRÅKVITSKAP	SPRÅKVITENSKAP	KIELITIEDE	SPRÅKVETENSKAP
+06a	Language in society	Giellagažaldat	Språkspørsmålet	Språkspørsmålet	Kieli yhteiskunnassa	Språkfrågor
+06a1	Teaching and studying languages	Giellaoahpaheapmi, giellaoahpahallan	Språkopplæring, språkstudium	Språkopplæring, språkstudium	Kielten opetus ja opiskelu	Språkundervisning, språkstudier
+06b	Linguistics	Gielladutkan	Språkforsking	Språkforskning	Lingvistiikka	Språkforskning
+06b1	Language history and etymology	Giellahistorjá ja etymologiija	Språkhistorie og etymologi	Språkhistorie og etymologi	Kielten historia ja etymologia	Språkhistoria och etymologi
+06b1a	Name research	Nammadutkan	Namneforsking	Navneforskning	Nimistöntutkimus	Namnforskning
+06b2	Dialects	Suopmanat	Dialektar	Dialekter	Murteet	Dialekter
+06b3	Other research	Eará dutkamušat	Anna forsking	Annen forskning	Muu tutkimus	Annan forskning
+06c	Grammar and language revitalisation	Giellaoahppa ja giellagáhtten	Grammatikk og språkrøkt	Grammatikk og språkrøkt	Kielioppi ja kelen elvytys	Grammatik och språkvård
+06d	Dictionaries	Sátnegirjjit	Ordbøker	Ordbøker	Sanakirjat	Ordböcker
+06e	Textbooks and readers	Oahppogirjjit ja lohkangirjjit	Lærebøker og lesebøker	Lærebøker og lesebøker	Oppikirjat ja lukemistot	Läroböcker och läseböcker
+07	Medicine, physical anthropology	DÁLKKASTUSDIEĐA, FYSÁLAŠ ANTROPOLOGIIJA	MEDISIN, FYSISK ANTROPOLOGI	MEDISIN, FYSISK ANTROPOLOGI	LÄÄKETIEDE, FYYSINEN ANTROPOLOGIA	MEDICIN, FYSISK ANTROPOLOGI
+07a	Medical sciences	Dálkkastusdieđa	Medisin	Medisin	Lääketiede	Medicin
+07b	Physical anthropology	Fysálaš antropologiija	Fysisk antropologi	Fysisk antropologi	Fyysinen antropologia	Fysisk antropologi
+08	Geography and local history	EANADIEĐA JA BÁIKKÁLAŠ HISTORJÁ	GEOGRAFI OG LOKALHISTORIE	GEOGRAFI OG LOKALHISTORIE	MAANTIEDE JA PAIKALLISHISTORIA	GEOGRAFI OCH LOKALHISTORIA
+08a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+08b	Specific regions	Guovllut	Enkelte område	Enkelte områder	Yksittäiset alueet	Särskilda områden
+08c	Travelogues	Mátkemuitalusat	Reiseskildringar	Reiseskildringer	Matkakertomukset	Reseskildringar
+09	History	HISTORJÁ	HISTORIE	HISTORIE	HISTORIA	HISTORIA
+09a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+09b	Archaeology	Arkeologiija	Arkeologi	Arkeologi	Arkeologia	Arkeologi
+09c	History	Historjá	Historie	Historie	Historia	Historia
+10	Personal history	OLBMUID HISTORJÁ	PERSONALHISTORIE	PERSONALHISTORIE	HENKILÖHISTORIA	PERSONHISTORIA
+10a	Collections of biographies	Biografiačoggosat	Samlingsbiografiar	Samlingsbiografier	Elämäkertakokoomateokset	Samlingsbiografier
+10b	Family history	Ovttaskas sogat	Enkelte slekter	Enkelte slekter	Sukuhistoriat	Särskilda släkter
+10c	Biographies	Ovttaskas olbmot	Enkelte personar	Enkelte personer	Elämäkerrat	Särskilda personer
+11	Cultural history	KULTURHISTORJÁ	KULTURHISTORIE	KULTURHISTORIE	KULTTUURIHISTORIA	KULTURHISTORIA
+11a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+11b	Work and industries	Bargu ja ealáhusat	Arbeids- og næringsliv	Arbeids- og næringsliv	Työ ja elinkeinot	Arbets- och näringsliv
+11b1	Hunting and trapping	Meahccebivdu	Jakt og fangst	Jakt og fangst	Metsästys ja pyynti	Jakt och fångst
+11b2	Fishing	Guollebivdu	Fiske	Fiske	Kalastus	Fiske
+11b3	Reindeer nomadism	Boazodoallu	Reinnomadisme	Reinnomadisme	Poropaimentolaisuus	Rennomadism
+11b4	Livestock and agriculture	Šibit- ja eanadoallu	Fedrift og jordbruk	Fedrift og jordbruk	Karjatalous ja maanviljely	Jordbruk och kreatursskötsel
+11b5	Other industries	Eará ealáhusat	Andre næringar	Andre næringer	Muut elinkeinot	Andra näringar
+11b6	Commerce and markets	Gávpi ja márkanat	Handel og marknader	Handel og markeder	Kauppa ja markkinat	Handel och marknader
+11b7	Diet and cooking	Biebmodilli ja biebmodoallu	Kosthald/matstell	Kosthold/matstell	Ravinto ja ruoanvalmistus	Kost och matlagning
+11c	Material culture	Ávnnaskultuvra	Materiell kultur	Materiell kultur	Aineellinen kulttuuri	Materiell kultur
+11c1	Housing and buildings	Ásodagat ja visttit	Bustader/bygningar	Boliger/bygninger	Asunnot ja rakennukset	Bostäder / byggnader
+11c2	Transportation	Fievrrut	Transportmiddel	Transportmidler	Kuljetus	Transportmedel
+11c3	Furniture, utensils, tools	Viessogálvvut, viessoneavvut, bargoneavvut	Møblar, husgeråd, reidskap osb.	Møbler, husgeråd, redskap etc.	Huonekalut, käyttöesineet, työkalut	Möbler, husgeråd, redskap etc.
+11c4	Handicraft	Duodji	Husflid og handverk	Husflid og håndverk	Käsityöt	Hemslöjd och hantverk
+11c5	Clothing	Biktasat	Klede	Klær	Vaatetus	Kläder
+11d	Folk culture. Folklore	Vuoiŋŋalaš kultuvra ja álbmotmuitu	Åndeleg kultur/folkeminne	Åndelig kultur/folkeminne	Henkinen kulttuuri, kansanperinne	Andlig kultur / folkminnen
+11d1	Folk literature	Álbmotdikten	Folkedikting	Folkediktning	Kansanrunous	Folkdiktning
+11d1a	Tales and lore	Máidnasat ja cukcasat	Eventyr og segner	Eventyr og sagn	Kertomukset ja perimätieto	Sagor och sägner
+11d1b	Rhymes and verse, proverbs and phrases, ballads	Hoahkamat ja sátnegárgadasat, sátnevádjasat ja dajaldagat, lávlagaččat	Rim, regler, ordtak, talemåtar, viser osb.	Rim, regler, ordtak, talemåter, viser etc.	Riimit ja säkeet, sananlaskut, sanonnat ja balladit	Rim, ramsor, ordspråk, talesätt, visor etc.
+11d2	Manners	Olmmošvierut	Skikk og bruk	Skikk og bruk	Tavat	Seder och bruk
+11d3	Folklore, folk belief	Álbmotgáttut	Folketru	Folketro	Kansanperinne, uskomukset	Folktro
+11d4	Folk medicine	Álbmotdálkasat	Folkemedisin	Folkemedisin	Kansanlääkintä	Folkmedicin
+11e	Social organisation	Sosiála oktavuođat	Sosial organisasjon	Sosial organisasjon	Sosiaaliset suhteet	Social organisation
+11e1	Family and kinship	Bearaš ja fuolkevuohta	Familie og slektskap	Familie og slektskap	Perhe ja sukulaisuus	Familje- och släktskap
+11e2	Justice and moral	Riekte- ja moráladilálašvuohta	Retts- og moralforhold	Retts- og moralforhold	Oikeus ja moraaliset olot	Rätts- och moralförhållanden
+11f	Museums and exhibitions	Dávvirvuorkkát ja čájáhusat	Museum og utstillingar	Museer og utstillinger	Museot ja näyttelyt	Museer och utställningar
+11f1	Preservation	Kulturmuitogáhtten	Kulturminnevern	Kulturminnevern	Kulttuurihistorialliset suojelukohteet	Kulturminnesvård
+12	Industry and economy	EALÁHUSAT JA EKONOMIIJA	NÆRINGSLIV OG ØKONOMI	NÆRINGSLIV OG ØKONOMI	ELINKEINOT JA TALOUS	NÄRINGSLIV OCH EKONOMI
+12a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+12b	Reindeer husbandry	Boazodoallu	Reindrift	Reindrift	Poronhoito	Renskötsel / rennäring
+12c	Agriculture and livestock	Eana- ja šibitdoallu	Jordbruk og fedrift	Jordbruk og fedrift	Maanviljely ja karjatalous	Jordbruk och kreatursskötsel
+12d	Hunting	Meahccebivdu	Jakt	Jakt	Metsästys	Jakt
+12e	Fishing	Guollebivdu	Fiske	Fiske	Kalastus	Fiske
+12f	Handicraft	Duodji	Husflid og handverk	Husflid og håndverk	Käsityöt	Hemslöjd och hantverk
+12g	Other trades	Eará ealáhusat	Andre næringar	Andre næringer	Muut elinkeinot	Andra näringar
+12h	Business administration	Fitnodatekonomiija	Bedriftsøkonomi	Bedriftsøkonomi	Liiketalous	Företagsekonomi
+12i	Home economics	Dállodoallu ja dan ekonomiija	Husleg økonomi/husstell	Huslig økonomi/husstell	Kotitalous	Privatekonomi / hushåll
+13	Minorities, Conditions and rights	UNNITLOHKOÁLBMOGAT. DILLI JA VUOIGATVUOĐAT	MINORITETS- OG RETTSTILHØVE	MINORITETS OG RETTSFORHOLD	VÄHEMMISTÖT JA OIKEUDET	MINORITETS- OCH RÄTTSFÖRHÅLLANDEN
+13a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+13b	Exploitation within the Sami regions	Ávkkástallan sámi guovlluin	Eksploatering innanfor det samiske området	Eksploatering innenfor det samiske området	Hyväksikäyttö saamelaisalueella	Exploatering inom det samiska området
+13b1	Forestry	Vuovdedoallu	Skogbruk	Skogbruk	Metsätalous	Skogsbruk
+13b2	Mining	Ruvkedoaibma	Gruvedrift	Gruvedrift	Kaivostoiminta	Gruvdrift
+13b3	Watercourse regulations, development of water power	Čázádatásahallan / fápmorusttegiid huksen	Vassdragsregulering / kraftutbygging	Vassdragsregulering / kraftutbygging	Vesistöjen säännöstely, vesivoiman kehitys	Vattenkraftsutbyggnad / vattenreglering
+13b4	Tourism / outdoor life	Turisma ja olgoáibmodoaibma	Turisme / friluftsliv	Turisme / friluftsliv	Matkailu / retkeily	Turism / friluftsliv
+13b5	Other exploitation	Eará ávkkástallan	Andre inngrep	Andre inngrep	Muu hyväksikäyttö	Andra ingrepp
+13c	Minority conditions, minority policy	Unnitlohkoálbmogat / dilli ja politihkka	Minoritetstilhøve/minoritetspolitikk	Minoritetsforhold/ minoritetspolitikk	Vähemmistökansat, olosuhteet ja politiikka	Minoritetsförhållanden / minoritetspolitik
+13c1	Relations to the Government	Gaskavuođat eiseváldiiguin	Forholdet til styresmakter	Forholdet til myndighetene	Suhteet viranomaisiin	Förhållandet till myndigheter
+13c2	Relations to other ethnic groups	Gaskavuođat eará olmmoščearddaidde	Forholdet til andre folkegrupper	Forholdet til andre folkegrupper	Suhteet muihin etnisiin ryhmiin	Förhållandet till andra folkgrupper
+13d	Legal history and legal position	Vuoigatvuođat / vuoigatvuođahistorjá	Rettstilhøve/rettshistorie	Rettsforhold/rettshistorie	Oikeushistoria ja oikeudellinen asema	Rättsförhållanden / rättshistoria
+14	Social conditions	SERVVODATDILLI	SAMFUNNSTILHØVE	SAMFUNNSFORHOLD	YHTEISKUNNALLISET OLOT	SAMHÄLLSFÖRHÅLLANDEN
+14a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+14b	Social conditions, Social policy	Sosiálalaš dilit / sosiála politihkka	Sosiale tilhøve/sosialpolitikk	Sosiale forhold/sosialpolitikk	Sosiaaliset olot, sosiaalipolitiikka	Sociala förhållanden / socialpolitik
+14c	Administration and politics	Hálddáhus ja politihkka	Forvaltning og politikk	Forvaltning og politikk	Hallinto ja politiikka	Förvaltning och politik
+14d	Communications	Johtolagat	Kommunikasjonar	Kommunikasjoner	Viestintä	Kommunikationer
+14e	Demography and statistics	Ássiidválddahallan ja statistihkka	Demografi og statistikk	Demografi og statistikk	Väestötiede ja tilastot	Demografi och statistik
+14f	Women’s liberation. Women’s history	Nissonáššit / nissonhistorjá	Kvinnesak/kvinnehistorie	Kvinnesak/kvinnehistorie	Naistutkimus / naisen historia	Kvinnofrågor / kvinnohistoria
+15	SCHOOLS AND EDUCATION	SKUVLA JA OAHPPU	SKOLE OG UTDANNING	SKOLE OG UTDANNING	KOULUT JA KOULUTUS	SKOLA OCH UTBILDNING
+15a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+15b	School history	Skuvlahistorjá	Skolehistorie	Skolehistorie	Kouluhistoria	Skolhistoria
+15c	Kindergarten	Ovdaskuvla	Førskole	Førskole	Esikoulu	Förskola
+15d	Primary school	Vuođđoskuvla	Grunnskole	Grunnskole	Peruskoulu	Grundskola
+15e	Secondary school	Joatkaskuvla	Vidaregåande skole	Videregående skole	Keskikoulu. Lukio	Gymnasieskola
+15f	Other education	Eará oahppu	Anna utdanning	Annen utdanning	Muu koulutus	Annan utbildning
+15g	Universities and academies	Universiteahta ja allaskuvla	Universitet og høgskole	Universitet og høyskole	Yliopistot ja korkeakoulut	Universitet och högskola
+15h	Adult education	Rávesolbmuidoahpahus	Vaksenopplæring	Voksenopplæring	Aikuiskoulutus	Vuxenutbildning
+15i	Specific subjects	Ovttaskas oahpposuorggit	Enkelte fag	Enkelte fag	Oppiaineet	Särskilda ämnen
+15j	Pedagogics and upbringing	Pedagogihkka ja bajásgeassin	Pedagogikk/oppdraging	Pedagogikk/oppdragelse	Pedagogiikka ja kasvatus	Pedagogik / uppfostran
+15k	Textbooks	Oahppogirjjit	Skolebøker	Skolebøker	Oppikirjat	Skolböcker
+16	Art, music, theatre and film	DÁIDDA, MUSIHKKA, TEAHTER, FILBMA	KUNST, MUSIKK, TEATER OG FILM	KUNST, MUSIKK, TEATER OG FILM	TAIDE, MUSIIKKI, TEATTERI, ELOKUVAT	KONST, MUSIK, TEATER OCH FILM
+16a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+16b	Creative arts	Hábmendáidda	Formkunst	Formkunst	Muotoilutaide	Formkonst
+16b1	Visual art	Govvadáidda	Biletkunst	Billedkunst	Kuvataiteet	Bildkonst
+16b2	Decorative arts	Dáiddaduodji	Kunsthandverk	Kunsthåndverk	Taidekäsityöt	Konsthantverk
+16b3	Architecture	Arkitektuvra	Arkitektur	Arkitektur	Arkkitehtuuri	Arkitektur
+16c	Joik and music	Juoigan/musihkka	Joik/musikk	Joik/musikk	Joiut ja musiikki	Jojk/musik
+16d	Theatre	Teahter	Teater	Teater	Teatteri	Teater
+16e	Film and photo	Filbma ja govat	Film/foto	Film/foto	Elokuvat ja valokuvat	Film/foto
+17	Literary history	GIRJJÁLAŠVUOĐAHISTORJÁ	LITTERATURHISTORIE	LITTERATURHISTORIE	KIRJALLISUUSHISTORIA	LITTERATURHISTORIA
+18	Fiction	ČÁPPAGIRJJÁLAŠVUOHTA	SKJØNNLITTERATUR	SKJØNNLITTERATUR	KAUNOKIRJALLISUUS	SKÖNLITTERATUR
+18a	Sami authors	Sámi čállit	Samiske forfattarar	Samiske forfattere	Saamelaiskirjailijat	Samiska författare
+18a1	In Sami languages	Sámegillii	På samisk	På samisk	Saamenkieliset	På samiska
+18a2	In other languages	Eará gielaide	På andre språk	På andre språk	Muunkieliset	På andra språk
+18b	Non-Sami authors	Eai-sámi čállit	Ikkje-samiske forfattarar	Ikke-samiske forfattere	Ei-saamelaiset kirjailijat	Icke-samiska författare
+18b1	In Sami languages	Sámegillii	På samisk	På samisk	Saamenkieliset	På samiska
+18b2	With Sami main motif	Sámi váldofáttain	Med samisk hovudmotiv	Med samisk hovedmotiv	Saamelaisaiheiset	Med samiskt huvudmotiv
+18c	Children’s and youth literature	Mánáid- ja nuoraidgirjjit	Barne- og ungdomslitteratur	Barne- og ungdomslitteratur	Lasten ja nuorten kirjallisuus	Barn- och ungdomslitteratur
+18c1	In Sami languages	Sámegillii	På samisk	På samisk	Saamenkieliset	På samiska
+18c2	With Sami main motif	Sámi váldofáttain	Med samisk hovudmotiv	Med samisk hovedmotiv	Saamelaisaiheiset	Med samiskt huvudmotiv
+19	Journalism and information operations	JOURNALISTIHKKA JA DIEĐÁHUSDOAIMMAT	JOURNALISTIKK / INFORMASJONSVERKSEMD	JOURNALISTIKK / INFORMASJONSVIRKSOMHET	JOURNALISMI JA TIEDOTUS	JOURNALISTIK OCH INFORMATIONSVERKSAMHET
+19a	General surveys	Oppalaš čilgehusat	Generelle oversyn	Generelle oversikter	Yleiskatsaukset	Allmänna översiktsverk
+19b	Press	Preantamediat	Presse	Presse	Lehdistö	Tidningar och tidskrifter
+19c	Radio and TV	Radio ja TV	Radio og fjernsyn	Radio og fjernsyn	Radio ja TV	Radio och television
+19d	Other information operations	Eará dieđáhusdoaimmat	Anna informasjonsverksemd	Annen informasjonsvirksomhet	Muu viestintätoiminta	Annan informationsverksamhet
+20	Sports, games, play and entertainment	VALAŠTALLAN, DUHKORADDAMAT, SPEALUT, ÁIGEGOLUT	IDRETT, SPEL, LEIK OG UNDERHALDNING	IDRETT, SPILL, LEK OG UNDERHOLDNING	URHEILU, PELIT, LEIKIT JA VIIHDE	IDROTT, SPEL, LEK OCH UNDERHÅLLNING
+21	Natural sciences, Technical science	LUONDDUDIEĐA. TEKNIHKKA	NATURVITSKAP / TEKNIKK	NATURVITENSKAP / TEKNIKK	LUONNONTIETEET. TEKNIIKKA	NATURVETENSKAP OCH TEKNIK
+21a	Natural sciences	Luonddudieđa	Naturvitskap	Naturvitenskap	Luonnontieteet	Naturvetenskap
+21b	Technical science	Teknihkka	Teknikk	Teknikk	Tekniset tieteet	Teknik
+21c	Mathematics	Matematihkka	Matematikk	Matematikk	Matematiikka	Matematik
