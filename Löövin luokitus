@@ -1,0 +1,176 @@
+# skos:notation	skos:prefLabel@fi (updated 22.06.2021)
+
+ 0 Löövin luokitus
+
+ 1  KIRJA- JA KIRJASTOALA
+    01a Yleiset bibliografiat
+    01b Henkilöbibliografiat
+    01c Kirjastojen luettelot
+    01d Kirjat ja kirjastot yleensä
+    01e Kirja-arvostelut
+    01f Arkistot
+
+ 2 KOKOOMATEOKSET JA ERI ALOJEN JULKAISUT
+    02a	Yleiskatsaukset ja käsikirjat
+    02b	Yleiset sarjajulkaisut
+    02c	Moniaiheiset teokset
+    02d	Tutkimusmenetelmät
+
+ 3  SAAMELAISET LAITOKSET JA ORGANISAATIOT
+    03a Laitokset ja virastot
+    03b Järjestöt ja yhdistykset
+    03c Konferenssit ja kokoukset
+
+ 4  USKONTO, FILOSOFIA JA PSYKOLOGIA
+    04a	Esikristilliset uskonnot
+    04b	Kirkko- ja lähetyshistoria
+    04c	Seurakunnat
+    04d	Lestadiolaisuus
+    04e	Filosofia ja psykologia
+
+ 5  USKONNOLLINEN KIRJALLISUUS
+    05a	Raamattu ja raamatunhistoria
+    05b	Virret ja hengelliset laulut
+    05c	Muut teokset
+
+ 6  KIELITIEDE
+    06a Kieli yhteiskunnassa
+        06a1 Kielten opetus ja opiskelu
+    06b Lingvistiikka
+        06b1 Kielten historia ja etymologia
+             06b1a Nimistöntutkimus
+        06b2 Murteet
+        06b3 Muu tutkimus
+    06c Kielioppi ja kelen elvytys
+    06d Sanakirjat
+    06e Oppikirjat ja lukemistot
+
+ 7  LÄÄKETIEDE, FYYSINEN ANTROPOLOGIA
+    07a	Lääketiede
+    07b	Fyysinen antropologia
+
+ 8  MAANTIEDE JA PAIKALLISHISTORIA
+    08a	Yleiskatsaukset
+    08b	Yksittäiset alueet
+    08c	Matkakertomukset
+
+ 9  HISTORIA
+    09a	Yleiskatsaukset
+    09b	Arkeologia
+    09c	Historia
+
+10  HENKILÖHISTORIA
+    10a	Elämäkertakokoomateokset
+    10b	Sukuhistoriat
+    10c	Elämäkerrat
+
+11  KULTTUURIHISTORIA
+    11a	Yleiskatsaukset
+    11b	Työ ja elinkeinot
+        11b1 Metsästys ja pyynti
+        11b2 Kalastus
+        11b3 Poropaimentolaisuus
+        11b4 Karjatalous ja maanviljely
+        11b5 Muut elinkeinot
+        11b6 Kauppa ja markkinat
+        11b7 Ravinto ja ruoanvalmistus
+    11c Aineellinen kulttuuri
+        11c1 Asunnot ja rakennukset
+        11c2 Kuljetus
+        11c3 Huonekalut, käyttöesineet, työkalut
+        11c4 Käsityöt
+        11c5 Vaatetus
+    11d Henkinen kulttuuri, kansanperinne
+        11d1 Kansanrunous
+             11d1a Kertomukset ja perimätieto
+             11d1b Riimit ja säkeet, sananlaskut, sanonnat ja balladit
+        11d2 Tavat
+        11d3 Kansanperinne, uskomukset
+        11d4 Kansanlääkintä
+    11e Sosiaaliset suhteet
+        11e1 Perhe ja sukulaisuus
+        11e2 Oikeus ja moraaliset olot
+    11f	Museot ja näyttelyt
+        11f1 Kulttuurihistorialliset suojelukohteet
+
+12	ELINKEINOT JA TALOUS
+    12a	Yleiskatsaukset
+    12b	Poronhoito
+    12c	Maanviljely ja karjatalous
+    12d	Metsästys
+    12e	Kalastus
+    12f	Käsityöt
+    12g	Muut elinkeinot
+    12h	Liiketalous
+    12i	Kotitalous
+
+13	VÄHEMMISTÖT JA OIKEUDET
+    13a	Yleiskatsaukset
+    13b	Hyväksikäyttö saamelaisalueella
+        13b1 Metsätalous
+        13b2 Kaivostoiminta
+        13b3 Vesistöjen säännöstely, vesivoiman kehitys
+        13b4 Matkailu / retkeily
+        13b5 Muu hyväksikäyttö
+    13c	Vähemmistökansat, olosuhteet ja politiikka
+        13c1 Suhteet viranomaisiin
+        13c2 Suhteet muihin etnisiin ryhmiin
+    13d	Oikeushistoria ja oikeudellinen asema
+
+14	YHTEISKUNNALLISET OLOT
+    14a	Yleiskatsaukset
+    14b	Sosiaaliset olot, sosiaalipolitiikka
+    14c	Hallinto ja politiikka
+    14d	Viestintä
+    14e	Väestötiede ja tilastot
+    14f	Naistutkimus / naisen historia
+
+15	KOULUT JA KOULUTUS
+    15a	Yleiskatsaukset
+    15b	Kouluhistoria
+    15c	Esikoulu
+    15d	Peruskoulu
+    15e	Keskikoulu. Lukio
+    15f	Muu koulutus
+    15g	Yliopistot ja korkeakoulut
+    15h	Aikuiskoulutus
+    15i	Oppiaineet
+    15j	Pedagogiikka ja kasvatus
+    15k	Oppikirjat
+
+16	TAIDE, MUSIIKKI, TEATTERI, ELOKUVAT
+    16a	Yleiskatsaukset
+    16b	Muotoilutaide
+        16b1 Kuvataiteet
+        16b2 Taidekäsityöt
+        16b3 Arkkitehtuuri
+    16c	Joiut ja musiikki
+    16d	Teatteri
+    16e	Elokuvat ja valokuvat
+
+17	KIRJALLISUUSHISTORIA
+
+18	KAUNOKIRJALLISUUS
+    18a	Saamelaiskirjailijat
+        18a1 Saamenkieliset
+        18a2 Muunkieliset
+   18b	Ei-saamelaiset kirjailijat
+        18b1 Saamenkieliset
+        18b2 Saamelaisaiheiset
+   18c	Lasten ja nuorten kirjallisuus
+        18c1 Saamenkieliset
+        18c2 Saamelaisaiheiset
+
+19	JOURNALISMI JA TIEDOTUS
+    19a	Yleiskatsaukset
+    19b	Lehdistö
+    19c	Radio ja TV
+    19d	Muu viestintätoiminta
+
+20	URHEILU, PELIT, LEIKIT JA VIIHDE
+
+21	LUONNONTIETEET. TEKNIIKKA
+    21a	Luonnontieteet
+    21b	Tekniset tieteet
+    21c	Matematiikka
+ 
